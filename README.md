@@ -1,12 +1,11 @@
 
-
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=435DA1&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=AI+rolls+out+a+materials+buffet;Lab+benches+serve+an+empty+tray" alt="Typing SVG" /></a>
+</p>
 
 
 - 👋 Hi, I’m @[Ocean-JH](https://github.com/Ocean-JH)
 - 👀 I major in Computational Materials Science
-- 🌱 I’m currently learning generative models
-- 💞️ I'm looking for friends with similar interests
 - ✨ Welcome to [my blog](https://ocean-jh.github.io/)
 - 📫 E-mail: jianghai001@e.ntu.edu.sg
 
