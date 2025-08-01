@@ -5,7 +5,7 @@
 
 
 - 👋 Hi, I’m @[Ocean-JH](https://github.com/Ocean-JH)
-- 👀 I major in Computational Materials Science
+- 👀 I major in AI for Materials Science (AI4S) @NTUsg-MSE
 - ✨ Welcome to [my blog](https://ocean-jh.github.io/)
 - 📫 E-mail: jianghai001@e.ntu.edu.sg
 
